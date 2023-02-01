@@ -1,2 +1,2 @@
 # jpashopORM 👍
-> ### [Tistory](https://kjh950601.tistory.com/category/Spring/SpringBoot)
+> ### [Tistory](https://kjh950601.tistory.com/category/Spring/JPA)
